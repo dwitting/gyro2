@@ -19,8 +19,8 @@ position: relative;
 
 
 #ball{
-left: 100px;
-top: 0px;
+left: 1000px;
+top: 1000px;
 position: absolute;
 z-index: 2;
 
