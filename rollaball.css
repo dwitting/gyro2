@@ -19,16 +19,16 @@ position: relative;
 
 
 #ball{
-left: 1000px;
-top: 1000px;
+left: 100px;
+top: 0px;
 position: absolute;
 z-index: 2;
 
 }
 
 #center{
-left: 0px;
-top: 0px;
+left: 300px;
+top: -100px;
 position: absolute;
 z-index: 1;
 }
