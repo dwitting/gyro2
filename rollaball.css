@@ -11,15 +11,15 @@ outline: 0px;
 #screen{
 
 background-color: yellow;
-width: 50%;
-height: 50%;
+width: 10%;
+height: 10%;
 position: relative;
 
 }
 
 
 #ball{
-left: 100px;
+left: 50px;
 top: 0px;
 position: absolute;
 z-index: 2;
